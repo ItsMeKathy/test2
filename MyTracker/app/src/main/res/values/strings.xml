@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyTracker</string>
+    <string name="button_logActivity">Log Activity</string>
+    <string name="button_logMood">Log Mood</string>
+    <string name="button_settings">Settings</string>
+</resources>
